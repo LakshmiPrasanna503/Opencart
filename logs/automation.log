@@ -1,0 +1,19 @@
+15:31:35.561 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account
+15:34:38.737 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account
+15:34:39.762 [main] INFO  testCases.TC001_AccountRegistrationTest - Details Submitted
+15:34:40.151 [main] INFO  testCases.TC001_AccountRegistrationTest - Account Created
+17:38:44.133 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account
+17:38:45.002 [main] INFO  testCases.TC001_AccountRegistrationTest - Details Submitted
+17:38:45.532 [main] INFO  testCases.TC001_AccountRegistrationTest - Account Created
+17:38:45.534 [main] ERROR testCases.TC001_AccountRegistrationTest - Account not created
+19:01:20.042 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account
+19:01:20.992 [main] INFO  testCases.TC001_AccountRegistrationTest - Details Submitted
+19:01:21.395 [main] INFO  testCases.TC001_AccountRegistrationTest - Account Created
+19:01:21.395 [main] ERROR testCases.TC001_AccountRegistrationTest - Account not created
+19:02:20.066 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account
+19:02:20.982 [main] INFO  testCases.TC001_AccountRegistrationTest - Details Submitted
+19:02:21.313 [main] INFO  testCases.TC001_AccountRegistrationTest - Account Created
+19:02:21.313 [main] ERROR testCases.TC001_AccountRegistrationTest - Account not created
+17:07:15.148 [main] INFO  testCases.TC002_LoginTest - Clciked on account
+17:07:15.377 [main] INFO  testCases.TC002_LoginTest - Clciked on login
+17:07:15.377 [main] DEBUG testCases.TC002_LoginTest - not clicked on login
